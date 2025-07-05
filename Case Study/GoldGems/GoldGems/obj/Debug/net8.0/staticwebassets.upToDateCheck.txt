@@ -1,0 +1,4 @@
+wwwroot\data\products.json
+wwwroot\index.html
+wwwroot\script.js
+wwwroot\styles.css
