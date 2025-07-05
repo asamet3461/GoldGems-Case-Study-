@@ -1,5 +1,5 @@
 GoldGems
-GoldGems, full-stack geliştirme pratiği yapmak amacıyla hazırlanmış küçük çaplı bir web uygulamasıdır. Uygulama, canlı altın fiyatı verisini kullanarak ürünlerin fiyatlarını dinamik şekilde hesaplar ve görüntüler.
+GoldGems, Uygulama, canlı altın fiyatı verisini kullanarak ürünlerin fiyatlarını dinamik şekilde hesaplar ve görüntüler.
 
 Kullanılan Teknolojiler
 Frontend
