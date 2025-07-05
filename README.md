@@ -1,4 +1,3 @@
-GoldGems
 GoldGems, Uygulama, canlı altın fiyatı verisini kullanarak ürünlerin fiyatlarını dinamik şekilde hesaplar ve görüntüler.
 
 Kullanılan Teknolojiler
